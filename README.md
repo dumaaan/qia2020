@@ -8,3 +8,6 @@ How to run:
 2. Use [MTCNN](https://github.com/ipazc/mtcnn) and [OpenCV](https://github.com/opencv/opencv) to crop out the faces from the video.
 3. Transform frames into PyTorch tensors.
 4. Run the training file: `python fe_train.py`
+
+## Structure
+![Model](https://i.ibb.co/6YFzYbL/Screen-Shot-2020-11-07-at-2-07-37-PM.png)
